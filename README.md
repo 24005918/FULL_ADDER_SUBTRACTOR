@@ -72,8 +72,7 @@ FULL ADDER
 ![{2376CF6B-C00C-4517-A35F-A3B5111F88DA}](https://github.com/user-attachments/assets/9adc55bb-f248-42c7-8aea-c14d72c89a95)
 
 FULL SUBRACTOR
-![{76E13ED6-E8BE-481E-8CD0-C056B9443A95}](https://github.com/user-attachments/assets/728a04b6-eb17-4e7b-8e4d-fd4a5c0ef392)
-
+![{54D7AE82-4EC3-4BEE-8CFF-53909062784A}](https://github.com/user-attachments/assets/48f597ca-058d-4f42-8cc2-59c147996423)
 
 **Output Timing Waveform**
 FULL ADDER

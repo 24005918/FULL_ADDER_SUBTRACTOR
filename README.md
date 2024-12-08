@@ -69,14 +69,19 @@ endmodule
 
 **RTL Schematic**
 FULL ADDER
-![{39045DAB-713B-4C86-9BD4-24BF908BE1F7}](https://github.com/user-attachments/assets/416a0b8d-3fec-42c8-b354-34d19f78fb27)
+![{2376CF6B-C00C-4517-A35F-A3B5111F88DA}](https://github.com/user-attachments/assets/9adc55bb-f248-42c7-8aea-c14d72c89a95)
+
 FULL SUBRACTOR
+![{76E13ED6-E8BE-481E-8CD0-C056B9443A95}](https://github.com/user-attachments/assets/728a04b6-eb17-4e7b-8e4d-fd4a5c0ef392)
 
 
 **Output Timing Waveform**
 FULL ADDER
+![{8251A3E7-1E09-489E-B7E7-8A74C25B9339}](https://github.com/user-attachments/assets/4e1147f7-358e-449f-88a9-b5c2de43b9f2)
+
 FULL SUBRACTOR
-![Uploading {7E05355E-EA41-4200-9232-06970BF66C92}.png…]()
+![{F39676B5-BD02-4386-B9E9-BA9C4A78917D}](https://github.com/user-attachments/assets/6981e672-6d48-4a35-ab40-ec7ca25dcd1d)
+
 
 
 **Result:**
